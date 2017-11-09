@@ -9,6 +9,9 @@ package Model;
  *
  * @author i14058
  */
+ 
+ private int koordinat;
 public class TRex {
     
 }
+
